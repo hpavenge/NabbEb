@@ -1,0 +1,11 @@
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\AddonTemplate.exe.config
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\AddonTemplate.exe
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\AddonTemplate.pdb
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\EloBuddy.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\EloBuddy.SDK.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\SharpDX.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\bin\Release\Newtonsoft.Json.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\obj\Release\AddonTemplate.exe
+C:\Users\nickr\OneDrive\Documenten\GitHub\GameHobby\lol\nabbEB\nabbEBCaitlyn\obj\Release\AddonTemplate.pdb

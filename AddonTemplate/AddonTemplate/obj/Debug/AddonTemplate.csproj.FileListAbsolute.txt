@@ -1,1 +1,2 @@
 C:\Users\nickr\OneDrive\Documenten\GitHub\EloBuddy-Addons\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.exe.config
+C:\Users\nickr\OneDrive\Documenten\GitHub\SharedGameCoding\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.exe.config
