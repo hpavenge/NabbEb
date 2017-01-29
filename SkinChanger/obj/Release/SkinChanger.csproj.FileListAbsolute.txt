@@ -1,0 +1,12 @@
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\SkinChanger.exe.config
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\SkinChanger.exe
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\SkinChanger.pdb
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\EloBuddy.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\EloBuddy.SDK.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\Newtonsoft.Json.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\SharpDX.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\obj\Release\SkinChanger.exe
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\obj\Release\SkinChanger.pdb
+C:\Users\nickr\OneDrive\Documenten\GitHub\PrivateELO\devRef\utility\SkinChanger\obj\Release\SkinChanger.csprojResolveAssemblyReference.cache

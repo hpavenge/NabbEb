@@ -1,0 +1,12 @@
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\obj\Release\nabbEBReal.csprojResolveAssemblyReference.cache
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\nabbEBReal.exe.config
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\nabbEBReal.exe
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\nabbEBReal.pdb
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\EloBuddy.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\EloBuddy.SDK.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\SharpDX.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\bin\Release\Newtonsoft.Json.dll
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\obj\Release\nabbEBReal.exe
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBReal\obj\Release\nabbEBReal.pdb

@@ -1,0 +1,2 @@
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBSyndra\bin\Debug\nabbEBSyndra.exe.config
+C:\Users\nickr\OneDrive\Documenten\GitHub\NabbEb\nabbEBSyndra\obj\Debug\nabbEBSyndra.csprojResolveAssemblyReference.cache
